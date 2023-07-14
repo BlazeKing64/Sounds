@@ -1,10 +1,10 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "Portal - Self Esteem Fund",
+  "description": "Plays Self Esteem Fund from Portal. All rights to Valve",
+  "author": "BlazeKing64",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
